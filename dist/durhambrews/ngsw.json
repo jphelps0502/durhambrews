@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595291620253,
+  "timestamp": 1595294740201,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.eb8881369687d6872936.js",
-        "/main-es5.eb8881369687d6872936.js",
+        "/main-es2015.b160830d2025689a64c8.js",
+        "/main-es5.b160830d2025689a64c8.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.f332a089ad1600448873.js",
         "/polyfills-es5.177e85a9724683782539.js",
@@ -55,9 +55,9 @@
     "/assets/img/beerGlassIcon.png": "baa87c9e825fb8ab763c84f092560ed95428541a",
     "/assets/img/durhamStockPhoto.jpg": "b4d2efcffbdb199e882e1cab6918896a9d1a4b8a",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "36523acbc72af1ac4e8fc0e4efd2501a12d0b433",
-    "/main-es2015.eb8881369687d6872936.js": "a145d3620a6246808dcc9c2ff9314aca918f5628",
-    "/main-es5.eb8881369687d6872936.js": "d957693b96e20dfaef2fce374540f85d73ee4906",
+    "/index.html": "628be978f5de1f7bb1f2e28a2b730234deea4696",
+    "/main-es2015.b160830d2025689a64c8.js": "92c9dde1665310553f29bab93bac3ad468aa90da",
+    "/main-es5.b160830d2025689a64c8.js": "17aff909bcffcd47fecfa13abd6856a4720d738d",
     "/manifest.webmanifest": "a8a3fffd584e10f8e117bf26961acc4205855049",
     "/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",

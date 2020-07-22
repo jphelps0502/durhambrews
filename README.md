@@ -13,6 +13,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - **api/getZip**
   - ex: **api/getZip?lat=latitude&long=longitude**
 - Static Maps
+- **api/getMap**
   - ex: **api/getMap?lat=latitude&long=longitude**
 
 ## Requirements

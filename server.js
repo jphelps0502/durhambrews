@@ -1,5 +1,4 @@
 const express = require('express')
-const app = express()
 const compression = require('compression')
 const http = require('http')
 const path = require('path')
@@ -13,6 +12,8 @@ const port = 8000 || process.env.PORT
 const token = process.env.LOCATION_TOKEN
 
 const dist = __dirname + '/dist/durhambrews'
+
+const app = express()
 
 app.use(express.static(dist))
 app.use(compression())

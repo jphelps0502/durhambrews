@@ -11,9 +11,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Search breweries by Zip code
 - Geolocation and Reverse Geocoding
   - **api/getZip**
-  - ex. **api/getZip?lat=latitude&long=longitude**
+  - ex: **api/getZip?lat=latitude&long=longitude**
 - Static Maps
-  - **api/getMap?lat=latitude&long=longitude**
+  - ex: **api/getMap?lat=latitude&long=longitude**
 
 ## Requirements
 **You will need an API token from LocationIQ in order to use reverse geocoding API and static map API**

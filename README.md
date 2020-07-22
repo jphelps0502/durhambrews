@@ -14,4 +14,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Requirements
 **You will need an API token from LocationIQ in order to use reverse geocoding API and static map API**
-- More information on LocationIQ API here: (https://locationiq.com/docs)
+- More information on LocationIQ API here: <https://locationiq.com/docs>

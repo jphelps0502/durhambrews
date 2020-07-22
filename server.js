@@ -9,6 +9,7 @@ require('dotenv').config()
 
 
 const port = 8000 || process.env.PORT
+//you will need API token from LocationIQ
 const token = process.env.LOCATION_TOKEN
 
 const dist = __dirname + '/dist/durhambrews'
